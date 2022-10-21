@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7630aed-dbd9-4ef2-ae90-300f9812b37d" name="Changes" comment="ficha 1 pedro silva">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio1pt2.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7630aed-dbd9-4ef2-ae90-300f9812b37d" name="Changes" comment="ficha 1 pedro silva" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666347510504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ficha 1 pedro silva">
+      <created>1666347618949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347618949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ficha 1 pedro silva">
+      <created>1666347642757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347642757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
